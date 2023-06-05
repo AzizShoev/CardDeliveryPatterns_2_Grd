@@ -1,0 +1,1 @@
+# CardDeliveryPatterns_2 [![Build status](https://ci.appveyor.com/api/projects/status/c12av688r0jc48fe?svg=true)](https://ci.appveyor.com/project/AzizShoev/carddeliverypatterns-2-grd)
